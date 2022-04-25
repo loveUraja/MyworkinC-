@@ -10,7 +10,7 @@ void Counting(int n)
         return;
     Counting(n - 1);
     cout << endl;
-    cout << n << " ";
+    cout << n << " ";  
 }
 
 int main()
